@@ -1,10 +1,10 @@
 # Rule-Based-AI-Chatbot
 
-# 🤖 AI Chatbot (Python)
+ AI Chatbot (Python)
 
 A simple rule-based AI chatbot built using Python. This chatbot responds to predefined user inputs using conditional statements (`if-elif-else`).
 
-## 📌 Features
+Features
 
 - 👋 Greets the user
 - 😊 Responds to "How are you?"
@@ -13,11 +13,11 @@ A simple rule-based AI chatbot built using Python. This chatbot responds to pred
 - 👋 Exits the chat when the user types `bye` or `exit`
 - ❓ Handles unknown inputs gracefully
 
-## 📖 How It Works
+ How It Works
 
 The chatbot continuously waits for user input using a `while` loop. It compares the user's message with predefined conditions using `if-elif-else` statements and returns the appropriate response. If the input is not recognized, it displays a default message.
 
-## 🚀 Future Improvements
+ Future Improvements
 
 - Add current date and time support
 - Integrate speech recognition
